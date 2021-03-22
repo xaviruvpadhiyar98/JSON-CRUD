@@ -1,4 +1,6 @@
-# Challenge Description
+# JSON CRUD DEMO FLASK
+
+## Challenge Description for HackerEarth Competition hosted by ECS.
 In this challenge, your are asked to complete a [Flask](https://flask.palletsprojects.com)-based **API**, for a number of e-learning courses.
 
 To illustrate the API, here is a mockup of a GUI, which uses it:
